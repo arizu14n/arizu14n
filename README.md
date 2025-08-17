@@ -4,9 +4,9 @@ Soy un estudiante de la Tecnicatura en Desarrollo de Software
 
 Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAMPP, Node.Js, VB.Net y Python con Flask. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
-Estoy cursando en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
+Estoy cursando el último cuatrimestre en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
 
-Este es mi CV: https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+Este es mi CV: [![CV](https://img.shields.io/badge/CV%20-%20blue)](https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 💻 Habilidades y Herramientas
 
@@ -27,17 +27,12 @@ Frameworks y Bibliotecas:
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP%20-%20blue)
 
 
-🌱 Proyectos en los que estoy trabajando
-[Nombre del Proyecto 1] - Una breve descripción de lo que hace. Por ejemplo: "Un sitio web de portafolio personal para mostrar mis proyectos."
-
-[Nombre del Proyecto 2] - Una breve descripción. Por ejemplo: "Un script en Python para automatizar una tarea específica."
-
-[Nombre del Proyecto 3] - Describe tu proyecto.
-
 📬 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tu-perfil/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-zuli%C3%A1n-0ab22b158/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arizu14n/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arizu14n@gmail.com)
+
+
 
 
 Mis hobbies o intereses fuera de la programación: Brindarle tiempo de calidad a mi familia. Jugar al padel y ver deportes como el fútbol y la Fórmula 1. 
