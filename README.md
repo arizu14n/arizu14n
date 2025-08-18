@@ -6,12 +6,14 @@ Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAM
 
 Estoy cursando el último cuatrimestre en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
 
-Este es mi CV: [![CV](https://img.shields.io/badge/CV%20-%20blue)](https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+Soy un apasionado por el aprendizaje continuo y la aplicación de conocimientos en la creación de aplicaciones funcionales que resuelvan problemas reales.
+
+Este es mi CV: [![CV - ARIEL ZULIAN](https://img.shields.io/badge/CV%20-%20blue)](https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 💻 Habilidades y Herramientas
 
 Lenguajes de Programación:
-![VB.Net](https://img.shields.io/badge/VB.NET%20-%20purple)
+![VB.NET](https://img.shields.io/badge/VB.NET%20-%20purple)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,4 +37,4 @@ Frameworks y Bibliotecas:
 
 
 
-Mis hobbies o intereses fuera de la programación: Brindarle tiempo de calidad a mi familia. Jugar al padel y ver deportes como el fútbol y la Fórmula 1. 
+
