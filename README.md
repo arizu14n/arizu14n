@@ -1,6 +1,7 @@
 ¡Hola! Soy Ariel 👋
 Soy un estudiante de la Tecnicatura en Desarrollo de Software
-<img src="https://i.gifer.com/PsKr.gif" alt="Un GIF animado que te representa. Puedes cambiarlo por uno que te guste más." width="200" align="right" style="border-radius: 8px"/>
+https://pixabay.com/es/gifs/dibujos-animados-3d-hombre-573/
+<img src="[https://i.gifer.com/PsKr.gifhttps://pixabay.com/es/gifs/dibujos-animados-3d-hombre-573/]" alt="Un GIF animado que representa los estados de ánimo por los que pasa un programador. " width="200" align="right"/>
 
 Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAMPP, Node.Js, VB.Net y Python con Flask. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
@@ -34,7 +35,7 @@ Frameworks y Bibliotecas:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arizu14n/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arizu14n@gmail.com)
 
-
+<img src="https://i.gifer.com/PsKr.gif" alt="Un GIF animado que me representa." width="200" align="right"/>
 
 
 
