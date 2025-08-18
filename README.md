@@ -1,6 +1,6 @@
 ¡Hola! Soy Ariel 👋
 Soy un estudiante de la Tecnicatura en Desarrollo de Software
-https://pixabay.com/es/gifs/dibujos-animados-3d-hombre-573/
+
 <img src="[https://i.gifer.com/PsKr.gifhttps://pixabay.com/es/gifs/dibujos-animados-3d-hombre-573/]" alt="Un GIF animado que representa los estados de ánimo por los que pasa un programador. " width="200" align="right"/>
 
 Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAMPP, Node.Js, VB.Net y Python con Flask. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
