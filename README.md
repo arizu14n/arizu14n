@@ -1,5 +1,5 @@
 ¡Hola! Soy Ariel 👋
-Soy un estudiante de la Tecnicatura en Desarrollo de Software <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="center"/>
+Soy un estudiante de la Tecnicatura en Desarrollo de Software   <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="right"/>
 
 Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAMPP, Node.Js, VB.Net y Python con Flask. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
