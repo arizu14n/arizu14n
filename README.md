@@ -7,7 +7,8 @@ Estoy cursando el último cuatrimestre en el Instituto Superior Villa del Rosari
 
 Soy un apasionado por el aprendizaje continuo y la aplicación de conocimientos en la creación de aplicaciones funcionales que resuelvan problemas reales.
 
-Este es mi CV: [![CV - ARIEL ZULIAN](https://img.shields.io/badge/CV%20-%20blue)](https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+Este es mi CV: [![CV - ARIEL ZULIAN](https://img.shields.io/badge/CV%20-%20blue)](https://app.enhancv.com/share/05c210bd/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  [![MI CV ONLINE](https://img.shields.io/badge/Mi%20WEB%20-%20https%3A%2F%2Farizu14n.github.io%2Fportafolio-web%2F)](https://arizu14n.github.io/portafolio-web)
+
 
 💻 Habilidades y Herramientas
 
