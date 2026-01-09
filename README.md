@@ -1,9 +1,9 @@
 ¡Hola! Soy Ariel 👋
-Soy un estudiante de la Tecnicatura en Desarrollo de Software   <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="right"/>
+Soy Técnico Superior en Desarrollo de Software   <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="right"/>
 
-Actualmente, estoy trabajando en mis habilidades de programación en PHP con XAMPP, Node.Js, VB.Net y Python con Flask. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
+Actualmente, estoy trabajando en mis habilidades de programación en Python con Flask y FastAPI, Node.Js, PHP con XAMPP, VB.Net, Kotlin y C#. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
-Estoy cursando el último cuatrimestre en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
+Me gradué en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
 
 Soy un apasionado por el aprendizaje continuo y la aplicación de conocimientos en la creación de aplicaciones funcionales que resuelvan problemas reales.
 
