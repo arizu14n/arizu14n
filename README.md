@@ -1,7 +1,12 @@
 ¡Hola! Soy Ariel 👋
+
 Soy Técnico Superior en Desarrollo de Software   <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="right"/>
 
-Actualmente, estoy trabajando en mis habilidades de programación en Python con Flask y FastAPI, Node.Js, PHP con XAMPP, VB.Net, Kotlin y C#. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
+Tengo 30+ años trabajndo en Administración de Empresas. Formación en Ciencias Económicas, con 2 títulos Universitarios y estoy incorporando toda esa formación y experiencia hacia el desarrollo de software. 
+
+Actualmente, estoy trabajando en mis habilidades de programación en Python con FastAPI, y también con Flask. 
+
+Anteriormente he trabajado con Node.Js, PHP con XAMPP y Laravel, VB.Net, Kotlin y C#. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
 Me gradué en el Instituto Superior Villa del Rosario y siempre busco nuevas oportunidades para aprender y colaborar en proyectos interesantes.
 
