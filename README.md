@@ -2,7 +2,9 @@
 
 Soy Técnico Superior en Desarrollo de Software   <img src="cartoon-573.gif" alt="Un GIF animado que representa, los estados de ánimo de un desarrollador de software." width="200" align="right"/>
 
-Tengo 30+ años trabajndo en Administración de Empresas. Formación en Ciencias Económicas, con 2 títulos Universitarios y estoy incorporando toda esa formación y experiencia en el desarrollo de software. 
+Tengo 30+ años trabajando en Administración de Empresas. Formación en Ciencias Económicas, con 2 títulos Universitarios. 
+
+Estoy incorporando toda esa formación y experiencia en el desarrollo de software. 
 
 Actualmente, estoy trabajando en mis habilidades de programación en Python con FastAPI, y también con Flask. 
 
