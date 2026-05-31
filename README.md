@@ -4,7 +4,9 @@ Soy Técnico Superior en Desarrollo de Software   <img src="cartoon-573.gif" alt
 
 Tengo 30+ años trabajando en Administración de Empresas. Formación en Ciencias Económicas, con 2 títulos Universitarios. 
 
-Estoy incorporando toda esa formación y experiencia en el desarrollo de software. Ya cuento con 4 Sistemas ERP en producción y sigo construyendo más soluciones para ofrecer a distintos sectores.
+Estoy incorporando toda esa formación y experiencia en el desarrollo de software. 
+
+Ya cuento con 4 Sistemas ERP en producción y sigo construyendo más soluciones para ofrecer a distintos sectores.
 
 Actualmente, estoy trabajando en mis habilidades de programación en Python con FastAPI, y también con Flask. 
 
