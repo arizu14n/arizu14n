@@ -8,7 +8,7 @@ Estoy incorporando toda esa formación y experiencia en el desarrollo de softwar
 
 Ya cuento con 4 Sistemas ERP en producción y sigo construyendo más soluciones para ofrecer a distintos sectores.
 
-Actualmente, estoy trabajando en mis habilidades de programación en Python con FastAPI, y también con Flask. 
+Actualmente, estoy trabajando en mis habilidades de programación en Python con FastAPI, Frontend con React Vite e infraestructura en Docker.
 
 Anteriormente he trabajado con Node.Js, PHP con XAMPP y Laravel, VB.Net, Kotlin y C#. Me apasiona todo lo relacionado con Back - End y Datos, pero también suelo incursionar en proyectos Front-End
 
